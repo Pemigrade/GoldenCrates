@@ -4,7 +4,7 @@ name: GoldenCrates
 author: NightExpress
 desciption: Perfect crates for your perfect server.
 depend: [NexEngine]
-softdepend: [Citizens, HolographicDisplays, Vault, multiworld, Multiverse-Core, SunLight, PlaceholderAPI]
+softdepend: [Citizens, HolographicDisplays, Vault, multiworld, Multiverse-Core, SunLight, PlaceholderAPI, Sabotage]
 api-version: 1.14
 permissions:
   goldencrates.admin:
